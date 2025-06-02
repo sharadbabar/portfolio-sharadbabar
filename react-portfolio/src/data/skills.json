@@ -1,5 +1,31 @@
 [
   {
+    "title": "Java",
+    "imageSrc": "skills/Java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/Spring.png"
+  },
+  {
+    "title": "Maven",
+    "imageSrc": "skills/ApacheMaven.png"
+  },
+  
+  {
+    "title": "Docker",
+    "imageSrc": "skills/Docker.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/Kubernetes.png"
+  },
+  
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -19,6 +45,12 @@
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
   },
+
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/MySQL.png"
+  },
+
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
@@ -26,5 +58,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/GitHub.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/Postman.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/TailwindCSS.png"
   }
 ]

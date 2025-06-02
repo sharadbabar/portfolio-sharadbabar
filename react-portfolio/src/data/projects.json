@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "PropEasy: All-in-One Real Estate & Property Management Hub:",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is my personal ecommerce website",
+    "skills": ["Java", "Spring boot", "React", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "University Course Management System:",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": " The objective of the project is to make the enrollment and modification of the course list of a student easy",
+    "skills": ["Java", "React", "Express", "Node", "MySQL"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Student Performance Prediction System using Machine Learning:",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This project was made to analize and predict the performance of a student in the upcoming tests.",
+    "skills": ["Python", "XG Boost"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

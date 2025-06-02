@@ -16,7 +16,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Software Developer</h3>
               <p>
                 I'm a frontend developer having experience in building and
                 optimizing sites{" "}
@@ -27,21 +27,25 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Cursor Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Education</h3>
               <p>
-                I'm a Backend developer having experience in building fast and
-                optimizing API
+                <b>Master of Science in Computer Science.</b>
+                <br />
+                <i>
+                  State University of New York at Binghamton
+                  <br />
+                  August 2023 - May 2025
+                </i>
               </p>
             </div>
           </li>
 
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
+            <img src={getImageUrl("about/location.png")} alt="UI Icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Developer</h3>
+              <h3>Location</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                United States of America
               </p>
             </div>
           </li>
