@@ -2,7 +2,7 @@
   {
     "title": "PropEasy: All-in-One Real Estate & Property Management Hub:",
     "imageSrc": "projects/project.png",
-    "description": "This is my personal ecommerce website",
+    "description": "PropEasy is a full-stack real estate platform that streamlines property buying, selling, renting, and management (leases, payments, maintenance) into one unified hub.",
     "skills": ["Java", "Spring boot", "React", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"

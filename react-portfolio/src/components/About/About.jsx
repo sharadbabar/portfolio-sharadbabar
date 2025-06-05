@@ -18,8 +18,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Software Developer</h3>
               <p>
-                I'm a frontend developer having experience in building and
-                optimizing sites{" "}
+                I'm a full-stack developer with strong experience in building
+                and optimizing Java-based web applications.
               </p>
             </div>
           </li>
@@ -44,9 +44,7 @@ export const About = () => {
             <img src={getImageUrl("about/location.png")} alt="UI Icon" />
             <div className={styles.aboutItemText}>
               <h3>Location</h3>
-              <p>
-                United States of America
-              </p>
+              <p>Houston, TX</p>
             </div>
           </li>
         </ul>
