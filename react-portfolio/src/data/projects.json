@@ -1,11 +1,11 @@
 [
   {
-    "title": "PropEasy: All-in-One Real Estate & Property Management Hub:",
-    "imageSrc": "projects/project.png",
-    "description": "PropEasy is a full-stack real estate platform that streamlines property buying, selling, renting, and management (leases, payments, maintenance) into one unified hub.",
-    "skills": ["Java", "Spring boot", "React", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Tomato - MERN-Based Online Food Ordering System:",
+    "imageSrc": "projects/food-delivery.png",
+    "description": "Tomato is a full-stack food delivery platform with secure ordering, real-time admin management, and Stripe-powered payments.",
+    "skills": ["MongoDB", "Express", "React", "Node","Vite","Stripe"],
+    "demo": "https://food-delivery-website-jade-sigma.vercel.app/",
+    "source": "https://github.com/sharadbabar/food-delivery-website"
   },
   {
     "title": "University Course Management System:",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Student Performance Prediction System using Machine Learning:",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/spps.png",
     "description": "This project was made to analize and predict the performance of a student in the upcoming tests.",
     "skills": ["Python", "XG Boost"],
     "demo": "https://www.example.com",
