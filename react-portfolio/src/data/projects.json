@@ -1,8 +1,8 @@
 [
   {
-    "title": "Tomato - MERN-Based Online Food Ordering System:",
+    "title": "FoodieExpress - MERN-Based Online Food Ordering System:",
     "imageSrc": "projects/food-delivery.png",
-    "description": "Tomato is a full-stack food delivery platform with secure ordering, real-time admin management, and Stripe-powered payments.",
+    "description": "FoodieExpress is a full-stack food delivery platform with secure ordering, real-time admin management, and Stripe-powered payments.",
     "skills": ["MongoDB", "Express", "React", "Node","Vite","Stripe"],
     "demo": "https://food-delivery-website-jade-sigma.vercel.app/",
     "source": "https://github.com/sharadbabar/food-delivery-website"
