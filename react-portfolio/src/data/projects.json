@@ -8,7 +8,7 @@
     "source": "https://github.com/sharadbabar/food-delivery-website"
   },
   {
-    "title": "University Course Management System:",
+    "title": "MoneyEasy: Real-Time Banking & Payments Platform:",
     "imageSrc": "projects/project.png",
     "description": " The objective of the project is to make the enrollment and modification of the course list of a student easy",
     "skills": ["Java", "React", "Express", "Node", "MySQL"],
@@ -16,7 +16,7 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Student Performance Prediction System using Machine Learning:",
+    "title": "QuickCart: Full-stack E-Commerce website using Next.js:",
     "imageSrc": "projects/spps.png",
     "description": "This project was made to analize and predict the performance of a student in the upcoming tests.",
     "skills": ["Python", "XG Boost"],

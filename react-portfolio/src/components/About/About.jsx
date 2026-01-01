@@ -34,7 +34,7 @@ export const About = () => {
                 <i>
                   State University of New York at Binghamton
                   <br />
-                  August 2023 - May 2025
+                  August 2023 - December 2025
                 </i>
               </p>
             </div>
@@ -44,7 +44,7 @@ export const About = () => {
             <img src={getImageUrl("about/location.png")} alt="UI Icon" />
             <div className={styles.aboutItemText}>
               <h3>Location</h3>
-              <p>Houston, TX</p>
+              <p>Syracuse, NY</p>
             </div>
           </li>
         </ul>
