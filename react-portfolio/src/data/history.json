@@ -1,15 +1,43 @@
 [
   {
-    "role": "Intern",
-    "organisation": "Artek Digital ",
-    "startDate": "August, 2022",
-    "endDate": "April, 2023",
+    "role": "Graduate Research Assistant",
+    "organisation": "Autonomous Intelligent Robotics Group, Binghamton University",
+    "startDate": "August, 2024",
+    "endDate": "February, 2025",
     "experiences": [
-      "Worked with React.js to build modular, reusable components",
-      "Implemented UI enhancements that improved page load speed by 20%",
-      "Collaborated with designers using Figma for pixel-perfect implementations",
-      "Assisted in deploying frontend code using Git and version control best practices"
+      "Built an indoor autonomous delivery system using TurtleBot 2 with ROS, integrating mapping (gmapping), localization (AMCL), and navigation stacks.",
+      "Implemented ROS-based modules for tasks such as sensor data processing, navigation stack tuning, and robot control.",
+      "Developed and tested algorithms for obstacle detection, localization, or motion planning using Python and ROS.",
+      "Tuned navigation parameters (costmaps, inflation radius, recovery behaviors) to improve reliability in dynamic environments."
     ],
-    "imageSrc": "history/artek-digital.png"
+    "imageSrc": "history/AIR.png"
+  },
+
+  {
+    "role": "Java Full-Stack Developer",
+    "organisation": "Neurologic Solutions",
+    "startDate": "April, 2022",
+    "endDate": "August, 2023",
+    "experiences": [
+      "Developed and maintained Java backend services using Spring Boot, implementing REST APIs, fixing production issues, and improving error handling, which helped increase application uptime to 95% and reduce recurring backend failures. Integrated Azure services to support and manage over 10,000 daily active users.",
+      "Took ownership of assigned end-to-end features, implementing backend logic and delivering corresponding React + Tailwind CSS UI flows, including form handling and API integration",
+      "Worked closely with QA during release cycles to investigate defects, apply fixes, and validate changes using Postman, logs, and targeted JUnit tests.",
+      "Actively contributed to sprint planning, code reviews, and technical discussions, using Git/GitHub and internal documentation to maintain code quality and delivery consistency."
+    ],
+    "imageSrc": "history/Neuro.png"
+  },
+
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Neurologic Solutions",
+    "startDate": "August, 2021",
+    "endDate": "April, 2022",
+    "experiences": [
+      "Assisted in backend development of multiple applications using Java and Spring Boot, implementing small service-layer updates, input validations, and minor bug fixes in REST APIs under senior developer supervision.",
+      "Supported frontend development using React and Tailwind CSS, building and modifying reusable UI components, fixing layout and responsiveness issues, and integrating components with backend APIs.",
+      "Collaborated with designers using Figma for pixel-perfect implementations",
+      "Helped with testing and debugging by reproducing issues, analyzing logs, validating fixes, and testing API endpoints using Postman and basic JUnit test cases. Collaborated within an Agile team, using Git/GitHub for version control."
+    ],
+    "imageSrc": "history/Neuro.png"
   }
 ]
